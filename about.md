@@ -3,4 +3,4 @@ At Elix, we understand the frustration and challenges faced by individuals who e
 
 Stay informed with our comprehensive news coverage, where our team of dedicated writers and researchers meticulously curate and report on the latest trends, technologies, and policies related to school, proxy, and website blocks. From updates on new blocking methods employed by educational institutions to breakthroughs in proxy and VPN technologies, we provide you with the insights you need to stay one step ahead.
 
-#WILL LOOK BETTER SOON
+# WILL LOOK BETTER SOON
